@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Ben Mook Site"
+title = "Hugo Artists Theme"
 theme = "hugo-artists-theme"
 
 [params]
@@ -11,8 +11,8 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Ben Mook"
-	description = "Content Strategist/UX Designer/Journalist"
+	name = "Your name"
+	description = "Your description"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "benmook@outlook.com"
+	email = "your@email.com"
 
 
 	# Header an navigation
