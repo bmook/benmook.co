@@ -1,37 +1,37 @@
+baseurl = "http://example.org"
+title = "Ben Mook"
+theme = "dimension"
 languageCode = "en-us"
-title = "Aerial"
-baseurl = "http://example.org/"
-theme = "aerial"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
 
 [params]
-  name = "Ben Mook"
-  about = "Content Strategist/UX Designer/Journalist"
+  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  logo = "fa-newspaper-o"
   copyright = "2018"
-  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-  favicon = "favicon.ico"
 
 [[params.social]]
-  medium = "Twitter"
+  medium = "twitter"
   icon = "twitter"
   link = "https://twitter.com/BenMook"
 
+
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
+  medium = "instagram"
+  icon = "instagram"
   link = "#"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
-
-[[params.social]]
-  medium = "Github"
+  medium = "github"
   icon = "github"
   link = "#"
 
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+title = "Ben Mook"
+description = '<!--[-->Content Strategist/UX Designer/Journalist<!--]-->'
