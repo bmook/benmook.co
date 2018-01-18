@@ -4,12 +4,12 @@ install:
 - pip install --user awscli
 script:
 - hugo version
-- make build
+- make deploy
 branches:
   only:
   - master
-  deploy:
+deploy:
   provider: s3
   access_key_id: "AKIAISDYOXCU7YH4J4FQ"
   secret_access_key: "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"
-  bucket: "S3 Bucket"
+  bucket: "benmook.co"
