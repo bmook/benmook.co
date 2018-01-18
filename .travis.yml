@@ -8,3 +8,8 @@ script:
 branches:
   only:
   - master
+  deploy:
+  provider: s3
+  access_key_id: "AKIAISDYOXCU7YH4J4FQ"
+  secret_access_key: "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"
+  bucket: "S3 Bucket"
