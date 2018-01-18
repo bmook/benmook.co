@@ -6,11 +6,13 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+
 [params]
   description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   logo = "fa-newspaper-o"
   copyright = "2018"
+  favicon = "static/images/mook_favicon.png"
 
 [[params.social]]
   medium = "twitter"
@@ -34,4 +36,4 @@ languageName = "English"
 weight = 1
 
 title = "Ben Mook"
-description = '<!--[-->I am a content strategist with a background in UX design and journalism<!--]-->'
+description = '<!--[-->Content strategist with a background in UX design and a foundation in journalism<!--]-->'
