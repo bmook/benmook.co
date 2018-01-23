@@ -1,4 +1,4 @@
-baseurl = "http://benmook.co.s3-website-us-east-1.amazonaws.com"
+baseurl = "http://www.benmook.co"
 title = "Ben Mook"
 theme = "dimension"
 languageCode = "en-us"
