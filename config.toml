@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "http://benmook.co.s3-website-us-east-1.amazonaws.com"
 title = "Ben Mook"
 theme = "dimension"
 languageCode = "en-us"
@@ -25,10 +25,6 @@ disableKinds=["RSS"]
   icon = "instagram"
   link = "#"
 
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
 
 [languages]
 [languages.en]
