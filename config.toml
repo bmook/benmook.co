@@ -12,7 +12,7 @@ disableKinds=["RSS"]
                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   logo = "fa-newspaper-o"
   copyright = "2018"
-  favicon = "static/images/mook_favicon.png"
+  favicon = "images/mook_favicon.png"
 
 [[params.social]]
   medium = "twitter"
